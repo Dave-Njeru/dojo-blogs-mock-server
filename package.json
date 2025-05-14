@@ -1,0 +1,25 @@
+{
+  "name": "dojo-blogs-mock-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dave-Njeru/dojo-blogs-mock-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dave-Njeru/dojo-blogs-mock-server/issues"
+  },
+  "homepage": "https://github.com/Dave-Njeru/dojo-blogs-mock-server#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
